@@ -3,7 +3,7 @@ let responses = {};
 // Function to load responses from JSON file
 async function loadResponses() {
     try {
-        const response = await fetch('../json/response.json');
+        const response = await fetch('json/response.json');
         responses = await response.json();
     } catch (error) {
         console.error('Error loading responses:', error);
