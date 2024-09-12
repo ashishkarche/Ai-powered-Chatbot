@@ -26,8 +26,8 @@ This is a chatbot project built with JavaScript that dynamically responds to use
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-chatbot-project.git
-   cd your-chatbot-project
+   git clone https://github.com/ashishkarche/Ai-powered-Chatbot.git
+   cd Ai-powered-Chatbot
    ```
 
 2. **Run the project:**
@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Author
 
-- **Your Name**
+- **Ashish**
 - GitHub: [Ashish Karche](https://github.com/ashishkarche)
 - LinkedIn: [Ashish Karche ](https://www.linkedin.com/in/ashish-karche-1a422b317/)
 
